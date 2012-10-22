@@ -1,0 +1,6 @@
+Screeen Esquemas:
+
+- CTRL + \ + { => Permitir rolar usando pageUP pageDown (Modo de colagem)
+- CTRL + \ + n => Next Screen 
+- CTRL + \ + p => Previous Screen 
+- CIRL + \ + c => New screen
