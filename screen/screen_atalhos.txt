@@ -4,3 +4,4 @@ Screeen Esquemas:
 - CTRL + \ + n => Next Screen 
 - CTRL + \ + p => Previous Screen 
 - CIRL + \ + c => New screen
+
