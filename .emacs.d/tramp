@@ -1,0 +1,40 @@
+;; -*- emacs-lisp -*- <14/05/23 19:34:24 /home/luciano/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["scp" "ra136700" "localhost#3300" nil nil]
+  ("uname" "Linux 2.6.35.3-1129-g691c08a")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("file-exists" "test -e")
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("ls" "/bin/ls --color=never")
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("id" "/usr/bin/id")
+  ("uid-integer" 19211)
+  ("gid-integer" 11034))
+ (["scp" "ra136700" "ssh.students.ic.unicamp.br" nil nil]
+  ("uname" "Linux 3.13.7-100.fc19.x86_64")
+  ("test" "test")
+  ("remote-path"
+   ("/bin" "/usr/bin" "/sbin" "/usr/sbin" "/usr/local/bin" "/usr/local/sbin"))
+  ("remote-shell" "/bin/sh")
+  ("busybox" nil)
+  ("readlink" "\\readlink")
+  ("stat" "\\stat")
+  ("file-exists" "test -e")
+  ("id" "/bin/id")
+  ("gid-integer" 11034)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl")
+  ("uid-integer" 19211)
+  ("ls" "/bin/ls --color=never")
+  ("ls-dired" t)
+  ("~" "/home/cc2012/ra136700")))
